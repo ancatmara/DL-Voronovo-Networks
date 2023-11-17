@@ -1,11 +1,8 @@
 # Сетевой анализ
 
-Материалы тьюториала по сетевому анализу и Gephi.
+Материалы тьюториала по сетевому анализу и Gephi. Подробный конспект тьюториала [здесь](https://github.com/ancatmara/DL-Voronovo-Networks/blob/master/network_analysis.md).
+
 Автор: Оксана Дереза
-
-## Конспект
-
-Подробный конспект тьюториала [здесь](https://github.com/ancatmara/DL-Voronovo-Networks/blob/master/network_analysis.md).
 
 ---
 ## Цифровая грамотность: опыт преподавания
